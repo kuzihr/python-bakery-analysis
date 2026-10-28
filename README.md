@@ -30,6 +30,26 @@ Dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/sdcloud/histor
 
 * Key findings and conclusions
 
+## 🔍 Key Findings
+
+### 1. Seasonal Demand for Hot Drinks
+
+**Hypothesis:** Demand for hot drinks peaks in winter due to lower temperatures.
+
+**Finding:** Demand increase in winter but peaks in monsoon.
+
+**Drill-down:**
+
+- Compared the seasonal demand for hot drinks with overall product demand.
+
+- Identified the products most frequently purchased alongside hot drinks.
+
+Visualization 1 - Seasonal demand
+<p align="center">
+    <img src="visualizations/drinks_seasonal_demand.png" alt="Description" width="750">
+</p>
+
+
 ## 🚀 How to Run
 
 1. Clone the repository:
