@@ -29,3 +29,26 @@ Dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/sdcloud/histor
 * Sales analysis and visualization
 
 * Key findings and conclusions
+
+## 🚀 How to Run
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/kuzihr/python-bakery-analysis.git
+    ```
+
+2. Navigate to the project folder:
+    ```bash
+    cd python-bakery-analysis
+    ```
+
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook bakery_sales_analysis.ipynb
+    ```
+    or open it directly in Google Colab.
